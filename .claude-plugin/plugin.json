@@ -1,0 +1,8 @@
+{
+  "name": "yt-summary",
+  "version": "1.0.0",
+  "description": "YouTube video summarization commands",
+  "author": {
+    "name": "jpoley"
+  }
+}
