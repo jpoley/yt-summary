@@ -1,0 +1,16 @@
+{
+  "name": "yt-summary-marketplace",
+  "owner": {
+    "name": "jpoley"
+  },
+  "plugins": [
+    {
+      "name": "yt-summary",
+      "source": {
+        "source": "github",
+        "repo": "jpoley/yt-summary"
+      },
+      "description": "YouTube video summarization commands"
+    }
+  ]
+}
